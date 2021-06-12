@@ -1,0 +1,2 @@
+192.168.159.130 ansible_user=centos ansible_password=centos ansible_ssh_common_args='-o StrictHostKeyChecking=no'
+192.168.159.131 ansible_user=centos ansible_password=centos ansible_ssh_common_args='-o StrictHostKeyChecking=no'
